@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.12.1",
+    "@react-three/drei": "^9.96.1",
+    "@react-three/fiber": "^8.15.15",
+    "framer-motion": "^11.0.3",
+    "maath": "^0.10.7",
+    "react-router-dom": "^6.21.3",
+    "react-tilt": "^1.0.2",
+    "react-vertical-timeline-component": "^3.6.0"
+  }
+}
