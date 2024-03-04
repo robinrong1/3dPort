@@ -116,24 +116,24 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "Full-stack Application Developer",
+      company_name: "Kenna",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "January 2024 - April 2024",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developing and maintaining web applications using React.js and Node.js to replace old legacy applications currently being used by the company",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create web-based solutions for clients",
+        "Making changes to website content upon the clients' requests, ensuring their satisfaction within 24 hours",
+        "Optimizing and debugging existing code to reduce poor practices and potential future issues, improving the build speed of the application by 23%",
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "Full-stack e-commerce website",
+      company_name: "Personal Project",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "June 2023 - October 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
