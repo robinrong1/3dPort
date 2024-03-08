@@ -167,7 +167,7 @@ import {
       ],
     },
   ];
-  
+   
   const testimonials = [
     {
       testimonial:
@@ -194,6 +194,7 @@ import {
       image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
   ];
+  
   
   const projects = [
     {
@@ -238,6 +239,7 @@ import {
       image: jobit,
       source_code_link: "https://github.com/",
     },
+    
     {
       name: "Trip Guide",
       description:

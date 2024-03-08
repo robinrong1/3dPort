@@ -48,7 +48,7 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         I am a computer engineering student studying at the University of Waterloo.
-        I'm a skilled software developer with experience in JavaScript, C++, and expertise in frameworks like the MERN tech stack,
+        I'm a software developer with experience in JavaScript, C++, and expertise in frameworks like the MERN tech stack,
         Three.js, and Angular.js. I'm a quick learner and excel at collaborating with clients and developers
         to create efficient, scalable, and user-friendly solutions that solve real-world problems. 
       </motion.p>
