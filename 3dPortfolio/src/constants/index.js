@@ -15,10 +15,10 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
+    kennaLogo,
+    amazona,
+    javarestaurant,
+    uask,
     carrent,
     jobit,
     tripguide,
@@ -118,7 +118,7 @@ import {
     {
       title: "Full-stack Application Developer",
       company_name: "Kenna",
-      icon: starbucks,
+      icon: kennaLogo,
       iconBg: "#383E56",
       date: "January 2024 - April 2024",
       points: [
@@ -131,7 +131,7 @@ import {
     {
       title: "Full-stack e-commerce website",
       company_name: "Personal Project",
-      icon: tesla,
+      icon: amazona,
       iconBg: "#E6DEDD",
       date: "June 2023 - October 2023",
       points: [
@@ -144,7 +144,7 @@ import {
     {
       title: "Java Restaurant App",
       company_name: "Personal Project",
-      icon: shopify,
+      icon: javarestaurant,
       iconBg: "#383E56",
       date: "November 2022 - December 2022",
       points: [
@@ -157,7 +157,7 @@ import {
     {
       title: "General Tutor",
       company_name: "UASK Education",
-      icon: meta,
+      icon: uask,
       iconBg: "#E6DEDD",
       date: "June 2023 - Present",
       points: [
